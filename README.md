@@ -1,50 +1,168 @@
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<!-- ✨ Shivam Verma GitHub Profile README ✨ -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Shivam+Verma!;🚀+Full+Stack+Developer+%26+AI+Engineer;💻+Building+Scalable+Web+%26+AI+Solutions;🌍+Open+to+Collaborations+%26+Innovations" alt="Typing Intro" />
+</h1>
 
 ---
 
-# 🧠 AI & GenAI Tools:
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-%23FF6F61.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🚀 About Me  
+
+🎯 **Full Stack Developer & AI Engineer** specializing in **Generative AI, RAG Pipelines, and LLM Integrations.**  
+💡 Passionate about building **secure, intelligent, and user-centric solutions** that merge AI innovation with full-stack development excellence.  
+🧠 Experienced in architecting **microservices, AI-driven dashboards,** and **workflow automation platforms** that deliver measurable business impact.  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivamverma2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shivamverma2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamverma2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧩 Technical Skills  
+
+<details open>
+<summary><b>💻 Frontend</b></summary>
+<ul>
+  <li>React.js, Next.js, Angular</li>
+  <li>Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript</li>
+  <li>Responsive design, component-based architecture</li>
+</ul>
+</details>
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
+<ul>
+  <li>Node.js, Express.js, Spring Boot, JSP Servlet</li>
+  <li>RESTful API Design and Microservice Architecture</li>
+  <li>Authentication & Authorization with JWT/OAuth2</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🗄️ Database & Storage</b></summary>
+<ul>
+  <li>MongoDB, MySQL, PostgreSQL</li>
+  <li>Query optimization, indexing, data modeling</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🧠 AI & Generative Tools</b></summary>
+<ul>
+  <li>LLM Integration (OpenAI, Gemini, Anthropic)</li>
+  <li>RAG Pipelines, LangChain, Prompt Engineering</li>
+  <li>AI Workflow Automation & Conversational Analytics</li>
+</ul>
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Tools</b></summary>
+<ul>
+  <li>Docker, Jenkins, Git, GitHub, Postman</li>
+  <li>Superset, Cursor, VS Code, REST API Testing</li>
+</ul>
+</details>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-AI%20%26%20Full%20Stack-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Innovation%20%26%20Scalability-00F5D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-Creativity%20%26%20Teamwork-ff69b4?style=for-the-badge" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Shivamverma2001&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💼 Professional Experience  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏢 **Full Stack Developer — Valuefy Solutions**  
+**April 2024 – Present | Mumbai, India**  
+
+- Led development of **Valuefy Copilot**, a GenAI assistant using **RAG** and **MCP architecture** for conversational analytics.  
+- Automated RM and client dashboards through Copilot, saving **90% manual effort**.  
+- Built **secure data guardrails** (PII masking, access control, query intelligence) improving productivity by **70%**.  
+- Automated **EAM → WIB migration** and tenant provisioning, reducing setup time by **80%**.  
+- Developed a **Superset-based centralized analytics platform**, cutting bugs by **70%**.  
+- Enhanced **onboarding and master data modules**, boosting efficiency by **60–70%**.  
+- **Tech Stack:** Next.js, Tailwind CSS, Shadcn, Node.js, MongoDB, MySQL, Microservices, RAG, LangChain, Superset.  
+
+---
+
+## 🌟 Highlight Projects  
+
+<details open>
+<summary><b>🎙️ Voice Translator — Multi-Mode Translation Platform</b></summary>
+
+- AI-powered translator supporting **voice, text, images, and document** translation.  
+- Integrated **speech-to-text** and **text-to-speech** for real-time multilingual communication.  
+- Added **PDF/DOCX/TXT translation** using **OCR + RAG-based contextual translation**.  
+- Built cross-platform apps using **React + React Native + Node.js + Gemini AI**.  
+- Integrated **Socket.io** for real-time communication between clients.  
+- Features **live translation**, timestamps, and AI-powered language suggestions.  
+- **Technologies:** React, React Native, Tailwind CSS, Node.js, Express, Socket.io, Gemini AI, RAG, OCR.  
+</details>
+
+<details>
+<summary><b>📊 Valuefy Copilot — Generative AI Assistant for Analytics</b></summary>
+
+- Designed and deployed **RAG + LLM-based conversational assistant** for the Semantic Layer.  
+- Enables **natural language querying** and **report automation** for financial data.  
+- Integrated **context-aware retrieval**, reducing data dependency by **90%**.  
+- Implemented **MCP architecture** to support multi-model orchestration and scalability.  
+- Enhanced data governance via **access roles** and **query validation** layers.  
+- **Technologies:** Next.js, Node.js, LangChain, Superset, MySQL, MongoDB.  
+</details>
+
+<details>
+<summary><b>💬 Video Chat App — Real-time Communication Platform</b></summary>
+
+- Built a **real-time video conferencing app** with room-based video calls.  
+- Integrated **camera toggles**, chat features, and **Font Awesome** UI icons.  
+- Added **peer connection management** via **PeerJS and WebRTC**.  
+- Users can **create, join, or end** calls with dynamic username overlays.  
+- Achieved **60K+ LinkedIn views** for project demo; praised for scalability and design.  
+- **Technologies:** Node.js, Express, PeerJS, WebRTC, Tailwind CSS.  
+</details>
+
+---
+
+## 🏆 Achievements  
+
+🏅 **2× Hackathon Winner** at Valuefy for projects **VideoChatApp** and **AI Bot Creator**.  
+💼 **Employee of the Year (Valuefy)** — awarded for exceptional contributions in GenAI-driven development.  
+🌟 Recognized for **RAG pipeline innovation** and **cross-functional collaboration**.  
+
+---
+
+## ⚙️ GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivamverma2001&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Shivamverma2001&theme=radical&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamverma2001&theme=react-dark&hide_border=true&bg_color=0D1117" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivamverma2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+
+
+
+---
+
+## 📫 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-verma1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Verma-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Shivamverma2001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Shivamverma2001-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=⭐+Thank+You+for+Visiting!;Let's+Connect+and+Build+Something+Amazing!+⭐" alt="Footer Typing Animation" />
+</h3>
+
+<!-- 🐍 Contribution Snake Animation at Bottom --> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" /> </p>
