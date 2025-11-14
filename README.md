@@ -8,9 +8,20 @@
 
 ## 🚀 About Me  
 
-🎯 **Full Stack Developer & AI Engineer** specializing in **Generative AI, RAG Pipelines, and LLM Integrations.**  
-💡 Passionate about building **secure, intelligent, and user-centric solutions** that merge AI innovation with full-stack development excellence.  
-🧠 Experienced in architecting **microservices, AI-driven dashboards,** and **workflow automation platforms** that deliver measurable business impact.  
+<details open>
+<summary><strong>🎯 Full Stack Developer & AI Engineer</strong></summary>
+
+- Specializing in **Generative AI, RAG Pipelines, and LLM Integrations**  
+- Skilled in building **secure, scalable, and intelligent applications**  
+- Passionate about creating **user-centric solutions** that merge AI innovation with full-stack excellence  
+- Experienced in architecting:  
+  - **Microservices-based systems**  
+  - **AI-driven analytics dashboards**  
+  - **Workflow automation platforms**  
+- Strong focus on **performance, clean architecture, and measurable business impact**  
+
+</details>
+
 
 ---
 
@@ -69,16 +80,21 @@
 
 ## 💼 Professional Experience  
 
-### 🏢 **Full Stack Developer — Valuefy Solutions**  
-**April 2024 – Present | Mumbai, India**  
+<details open>
+<summary><strong>🏢 Full Stack Developer — Valuefy Solutions</strong></summary>
+
+**April 2024 – Present | Mumbai, India**
 
 - Led development of **Valuefy Copilot**, a GenAI assistant using **RAG** and **MCP architecture** for conversational analytics.  
 - Automated RM and client dashboards through Copilot, saving **90% manual effort**.  
 - Built **secure data guardrails** (PII masking, access control, query intelligence) improving productivity by **70%**.  
 - Automated **EAM → WIB migration** and tenant provisioning, reducing setup time by **80%**.  
-- Developed a **Superset-based centralized analytics platform**, cutting bugs by **70%**.  
-- Enhanced **onboarding and master data modules**, boosting efficiency by **60–70%**.  
-- **Tech Stack:** Next.js, Tailwind CSS, Shadcn, Node.js, MongoDB, MySQL, Microservices, RAG, LangChain, Superset.  
+- Developed a **Superset-based centralized analytics platform**, reducing bugs by **70%**.  
+- Enhanced **onboarding and master data modules**, improving operational efficiency by **60–70%**.  
+- **Tech Stack:** Next.js, Tailwind CSS, Shadcn, Node.js, MongoDB, MySQL, Microservices, RAG, LangChain, Superset.
+
+</details>
+
 
 ---
 
@@ -122,9 +138,15 @@
 
 ## 🏆 Achievements  
 
-🏅 **2× Hackathon Winner** at Valuefy for projects **VideoChatApp** and **AI Bot Creator**.  
-💼 **Employee of the Year (Valuefy)** — awarded for exceptional contributions in GenAI-driven development.  
-🌟 Recognized for **RAG pipeline innovation** and **cross-functional collaboration**.  
+<details open>
+<summary><strong>🏅 Key Achievements</strong></summary>
+
+- **2× Hackathon Winner** at Valuefy for projects **VideoChatApp** and **AI Bot Creator**.  
+- **Employee of the Year (Valuefy)** — recognized for exceptional contributions in GenAI-driven development.  
+- Appreciated for **RAG pipeline innovation** and strong **cross-functional collaboration**.  
+
+</details>
+
 
 ---
 
