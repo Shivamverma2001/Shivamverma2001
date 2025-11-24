@@ -101,7 +101,7 @@
 ## 🌟 Highlight Projects  
 
 <details open>
-<summary><b>🎙️ Voice Translator — Multi-Mode Translation Platform</b></summary>
+<summary><b>🎙️ BhaShaVox — B-SV - BELIEVE, SPEAK, VOICE</b></summary>
 
 - AI-powered translator supporting **voice, text, images, and document** translation.  
 - Integrated **speech-to-text** and **text-to-speech** for real-time multilingual communication.  
